@@ -8,7 +8,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Rafael! A enthusiast student from Brazil.
+  Hi 👋, I'm Rafael!
 
   - 🌱  I’m currently studying System analysis and development at FIAP.
 
