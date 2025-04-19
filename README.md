@@ -15,14 +15,6 @@
   - 🔭 I am looking for my first job opportunity.
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 18 years old, currently living in Brazil. I speak portuguese and english.
-  - ⚡ I enjoy playing games, whether it's a good game, as well as listening music and reading books! I believe that our personal interests contribute to a more refined perception of things.
-</details>
-
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freitas.raff/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-freitas-9345492b5/)
