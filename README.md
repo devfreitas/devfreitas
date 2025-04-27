@@ -1,4 +1,4 @@
-<!--título-->
+v<!--título-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello Everyone</h1></summary>   
@@ -21,7 +21,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTHVmfWTLXzDkksDmTNHdXpGPmmBVwtlcTrMzczDLzfcpwKvzPKcMMQzMGZNSXZQqPHhrL)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/s0mew4y)
 
-![Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=someway&show_icons=true&theme=dracula)
+![Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=devfreitas&show_icons=true&theme=dracula)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
