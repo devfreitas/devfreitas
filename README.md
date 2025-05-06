@@ -1,17 +1,23 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello Everyone</h1></summary>   
-</div>
+        <p align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&lines=Hello%2C+Everyone!" alt="Typing SVG" />
+        </p> 
+  </div>
 
 ##
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Rafael!
+  Hi 👋, I'm Rafael! I'll try to tell you a bit about myself!
 
   - 🌱  I’m currently studying System analysis and development at FIAP.
+    
+  - 💻 Passionate about web development and cybersecurity 
 
+  - 🔍 Currently studying Python, Java, HTML/CSS and playing around with Kali Linux
+  
   - 🔭 I am looking for my first job opportunity.
 </p>
 
@@ -26,29 +32,30 @@
 
 <br>
 
-![Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=devfreitas&show_icons=true&theme=tokyonight)
+![Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=devfreitas&show_icons=true&theme=tokyonight) 
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Programming Languages</h3> 
   <img align="center" alt="Java" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
   </div>
   <br>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfreitas&hide_progress=true&theme=tokyonight)
-  
+  <div class="menu">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfreitas&hide_progress=true&theme=tokyonight)
+
+  </div>
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools</h3>
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
           
   </div>
