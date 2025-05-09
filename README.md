@@ -32,7 +32,7 @@
 
 <br>
 
-![Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=devfreitas&show_icons=true&theme=tokyonight) 
+![Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=devfreitas&show_icons=true&theme=tokyonight)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
