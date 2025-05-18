@@ -7,7 +7,6 @@
   </div>
 
 ##
-
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Rafael! I'll try to tell you a bit about myself!
