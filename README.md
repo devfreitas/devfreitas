@@ -2,7 +2,7 @@
 <div id="user-content-toc">
   <ul align="center">
         <p align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=50&color=7B68EE&center=true&vCenter=true&width=435&lines=Hello%2C+Everyone!;I'm+Rafael!" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&color=7B68EE&center=true&vCenter=true&width=435&lines=Hello%2C+Everyone!" alt="Typing SVG" />
         </p> 
   </div>
 
