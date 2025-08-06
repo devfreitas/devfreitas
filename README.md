@@ -15,7 +15,7 @@
     
   - 💻 Passionate about web development and cybersecurity 
 
-  - 🔍 Currently studying Python, Java, HTML/CSS and playing around with Kali Linux
+  - 🔍 Currently studying Python, Java, React and playing around with Kali Linux
   
   - 🔭 I am looking for my first job opportunity.
 </p>
