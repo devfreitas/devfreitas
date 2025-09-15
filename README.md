@@ -56,5 +56,4 @@
           
   </div>
 
-
 ![Snake Animation](https://github.com/devfreitas/devfreitas/blob/output/github-contribution-grid-skane.svg)
