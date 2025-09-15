@@ -1,17 +1,16 @@
-<!--título-->
 <div id="user-content-toc">
   <ul align="center">
-        <p align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&color=7B68EE&center=true&vCenter=true&width=435&lines=Hello%2C+Everyone!" alt="Typing SVG" />
-        </p> 
-  </div>
+    <p align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&color=7B68EE&center=true&vCenter=true&width=435&lines=Hello%2C+Everyone!" alt="Typing SVG" />
+    </p> 
+  </ul>
+</div>
 
 ##
-<!-- Presentation -->
 <p>
   Hi 👋, I'm Rafael! I'll try to tell you a bit about myself!
 
-  - 🌱  I’m currently studying System analysis and development at FIAP.
+  - 🌱 I’m currently studying System analysis and development at FIAP.
     
   - 💻 Passionate about web development and cybersecurity 
 
@@ -20,7 +19,6 @@
   - 🔭 I am looking for my first job opportunity.
 </p>
 
-<!-- Links -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-freitas-9345492b5/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FreitasRaff)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/s0mew4y)
@@ -31,11 +29,10 @@
 ![Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=devfreitas&show_icons=true&theme=tokyonight)
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
+<div style="flex-basis: 48%;">
     <h3>Programming Languages</h3> 
-  <img align="center" alt="Java" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -47,13 +44,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfreitas&hide_progress=true&theme=tokyonight)
 
   </div>
-  <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>️️️️️️️️️️️Tools</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
           
   </div>
 
-![Snake Animation](https://github.com/devfreitas/devfreitas/blob/output/github-contribution-grid-skane.svg)
+<br>
+
+![Snake Animation](https://github.com/devfreitas/devfreitas/blob/output/github-contribution-grid-snake.svg)
