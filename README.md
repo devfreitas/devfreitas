@@ -12,17 +12,18 @@
 
   - 🌱 I’m currently studying System analysis and development at FIAP.
     
-  - 💻 Passionate about web development and cybersecurity 
+  - 💻 Passionate about web development and cybersecurity.
 
-  - 🔍 Currently studying Python, Java, React and playing around with Kali Linux
+  - 🔍 Currently studying Python, Java, typescript and playing around with Linux
   
   - 🔭 I am looking for my first job opportunity.
 </p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-freitas-9345492b5/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FreitasRaff)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FreitasRaff)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/s0mew4y)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freitas.raff/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDQqQnSRrtxQZVFvMGwNjRbSWBFxHpcdbkqNDWRxrslmvdHCXwwGfxbhDFqKvJpjMLCNGb)
 
 <br>
 
