@@ -44,9 +44,5 @@
 <br><br>
 
 <div style="margin-left:8px;">
-  
-![Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=devfreitas&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfreitas&hide_progress=true&theme=tokyonight)
 
 </div>
