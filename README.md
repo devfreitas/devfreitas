@@ -15,7 +15,7 @@
 
 <div align="center">
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=gotham"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=nord_dark"/>
 </div>
 <br>
 <br>
