@@ -2,7 +2,6 @@
 
 <div align="center">
   <samp>
-      <br>
       Hi there! I'm <b>Rafael de Freitas Moraes</b>
   </samp>
 </div>
