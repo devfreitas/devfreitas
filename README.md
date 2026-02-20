@@ -12,8 +12,6 @@
 
 </div>
 
-
-
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=devfreitas&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -34,26 +32,18 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  
 </div>
-
-
 <br>
 <br>
-
 <details align="center">  
   <summary>
       <samp>
         <b>More Info</b>
       </samp>
   </summary>
-  
 <br>
-
 ##
-
 <br>
-
 <div align="center">
   <samp>
     <b>
@@ -62,7 +52,7 @@
   </samp>
   <br>
   <br>
-
+  
   [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:freitassrafa2006@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/freitas.raff/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafael-freitas-9345492b5/)
