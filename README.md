@@ -33,13 +33,12 @@
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
 
