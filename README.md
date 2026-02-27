@@ -1,3 +1,4 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black"/>
 
 <div align="center">
@@ -15,14 +16,21 @@
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=devfreitas&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
+
 <br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=devfreitas&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devfreitas&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  <br>
+
+<br>
+
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=nord_dark"/>
+  
 </div>
+
 <br>
 <br>
+
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
@@ -34,17 +42,23 @@
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
+
 <br>
 <br>
+
 <details align="center">  
   <summary>
       <samp>
         <b>More Info</b>
       </samp>
   </summary>
+  
 <br>
+
 ##
+
 <br>
+
 <div align="center">
   <samp>
     <b>
@@ -59,9 +73,7 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafael-freitas-9345492b5/)
   
 </div>
-
 <br>
-
 </details>
 
 ##
