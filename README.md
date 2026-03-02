@@ -3,9 +3,14 @@
 
 <div align="center">
   <samp>
-      Hi there! I'm <b>Rafael de Freitas Moraes</b>
+      Hey! I'm <b>Rafael</b>
   </samp>
 </div>
+<br>
+<p align="center">
+I spend most of my time building <b>web apps</b>, along with some <b>side projects!</b>
+</p>
+
 
 <div align="center">
 
@@ -45,18 +50,25 @@
 <br>
 <br>
 
+##
+
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>More Statics</b>
       </samp>
   </summary>
   
 <br>
 
-##
-
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=devfreitas&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=shadow_blue&border_color=45475a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=devfreitas&layout=compact&title_color=cba6f7&theme=shadow_blue&border_color=45475a"/></a>
+</div>
 <br>
+</details>
+
+##
 
 <div align="center">
   <samp>
@@ -72,10 +84,6 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafael-freitas-9345492b5/)
   
 </div>
-<br>
-</details>
-
-##
 
 <br>
 
