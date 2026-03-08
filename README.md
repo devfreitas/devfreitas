@@ -37,7 +37,9 @@ I spend most of my time building <b>web apps</b>, along with some <b>side projec
 </div>
 <br>
 <br>
+
 ##
+
 <details align="center">  
   <summary>
       <samp>
@@ -50,7 +52,9 @@ I spend most of my time building <b>web apps</b>, along with some <b>side projec
 </div>
 <br>
 </details>
+
 ##
+
 <div align="center">
     <samp>
       <b>
