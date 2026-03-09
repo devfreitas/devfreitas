@@ -40,11 +40,13 @@ I spend most of my time building <b>web apps</b>, along with some <b>side projec
 
 ##
 
-<h4 align="center">  
-      <samp>
-        <br>
-        <b>More Statics</b>
-      </samp>
+<div align="center">
+    <samp>
+      <b>
+        More Statics
+      </b>
+    </samp>
+<br>
 <br>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=devfreitas&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=react&border_color=45475a"/></a> <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=devfreitas&layout=compact&title_color=cba6f7&theme=react&border_color=45475a"/></a>
