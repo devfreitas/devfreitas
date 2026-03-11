@@ -20,8 +20,8 @@
 </div>
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=devfreitas&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devfreitas&theme=one_dark_pro)](https://git.io/streak-stats)
 
 <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=nord_dark"/>
 
