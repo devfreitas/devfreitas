@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devfreitas&theme=one_dark_pro)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devfreitas&theme=nord)](https://git.io/streak-stats)
 
 <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=nord_dark"/>
 
@@ -59,8 +59,8 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=devfreitas&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=dark&border_color=45475a"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=devfreitas&layout=compact&title_color=cba6f7&theme=dark&border_color=45475a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=devfreitas&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=nord&border_color=45475a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=devfreitas&layout=compact&title_color=cba6f7&theme=nord&border_color=45475a"/></a>
 </div>
 
 <br>
