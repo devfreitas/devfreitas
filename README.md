@@ -80,13 +80,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafael-freitas-9345492b5/)
   
 </div>
-
 <br>
 
 <div align="center">
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=devfreitas&style=flat-square&color=123845" /></p> 
 </div>
-
 <br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black&section=footer"/>
