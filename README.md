@@ -23,7 +23,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devfreitas&theme=nord)](https://git.io/streak-stats)
 
-<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=nord_dark"/>
+<!--- <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=nord_dark"/> -->
 
 <br>
 <br>
