@@ -23,7 +23,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devfreitas&theme=nord)](https://git.io/streak-stats)
 
-<!--- <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=nord_dark"/> -->
+<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=nord_dark"/>
 
 <br>
 <br>
@@ -52,7 +52,7 @@
 <div align="center">
     <samp>
       <b>
-        More Statics
+        Statics
       </b>
     </samp>
 <br>
@@ -78,12 +78,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:freitassrafa2006@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/freitas.raff/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafael-freitas-9345492b5/)
-  
 </div>
-<br>
-
 <div align="center">
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=devfreitas&style=flat-square&color=123845" /></p> 
 </div>
 <br>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/joshuathadi">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black&section=footer"/>
