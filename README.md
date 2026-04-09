@@ -85,7 +85,7 @@
 <br>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/devfreitas">
+  <a target=:blank href="https://buymeacoffee.com/devfreitas">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
   </a>
 </p>
