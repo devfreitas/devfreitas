@@ -12,7 +12,7 @@
     I spend most of my time building <b>web apps</b>, along with some <b>side projects!</b>.<br>Currently, I'm building an <b>app launcher</b> for Windows 11 using <b>rust.</b> I also have another project in development.
 </p>
 
-
+<br>
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devfreitas&theme=nord)](https://git.io/streak-stats)
@@ -21,9 +21,7 @@
 
 <br>
 <br>
-
 </div>
-
 <br>
 <br>
 
@@ -39,10 +37,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-
-
-
 </div>
 
 <br>
@@ -83,6 +77,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Obsidian-Dark.svg"> 
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg"> 
 </div>
 
