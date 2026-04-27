@@ -94,7 +94,7 @@
   
 
 <div align="center">
-<a href="mailto:freitassrafa2006@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=freitassrafa2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff">
 </a>
 <a href="https://www.instagram.com/freitas.raff/" target="_blank">
