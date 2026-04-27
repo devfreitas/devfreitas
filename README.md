@@ -60,9 +60,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Most Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=devfreitas&layout=compact&theme=nord"/></a>
-
- <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=devfreitas&show_icons=true&custom_title=GitHub+Statistics+DevFreitas&theme=nord"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Most Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=devfreitas&layout=compact&theme=nord"/></a> <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=devfreitas&show_icons=true&custom_title=GitHub+Statistics+DevFreitas&theme=nord"/></a>
 </div>
 
 <br>
