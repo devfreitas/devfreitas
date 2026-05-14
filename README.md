@@ -143,13 +143,4 @@
   </a>
 </p>
 
-
-<p align="center">
-  <a href="./README.pt-BR.md">
-    <img src="https://img.shields.io/badge/lang-pt--br-123845?style=for-the-badge&labelColor=000000">
-  </a>
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/lang-en-696969?style=for-the-badge&labelColor=000000">
-  </a>
-</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black&section=footer"/>
