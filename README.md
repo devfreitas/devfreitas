@@ -5,8 +5,7 @@
     Hey! I'm <b>Rafael</b>
 </samp>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=696969&center=true&vCenter=true&width=435&lines=Be+welcome!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=696969&center=true&vCenter=true&width=435&lines=print!%28%22Be+welcome!%22%29%3B)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
