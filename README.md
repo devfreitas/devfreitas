@@ -112,15 +112,15 @@
 <br>
 <br>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=freitassrafa2006@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=freitassrafa2006@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff">
 </a>
 
-<a href="https://www.instagram.com/freitas.raff/" target="_blank">
+<a href="https://www.instagram.com/freitas.raff/" target="blank">
   <img src="https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff">
 </a>
 
-<a href="https://www.linkedin.com/in/rafael-de-freitass" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-de-freitass" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff">
 </a>
 
