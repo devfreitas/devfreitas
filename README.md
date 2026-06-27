@@ -130,10 +130,4 @@
 
 <br>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/devfreitas">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black&section=footer"/>
