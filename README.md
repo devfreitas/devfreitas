@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devfreitas&theme=nord&short_numbers=true)](https://git.io/streak-stats)
+[![GitHubStreak](https://streak-stats.demolab.com?user=devfreitas&theme=nord&short_numbers=true)](https://git.io/streak-stats)
 
 <img align="center" alt="Grafico" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=nord_dark"/>
 
