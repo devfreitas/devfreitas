@@ -26,7 +26,8 @@
     Languages and Tools I Use
   </b>
 </samp>
-
+    
+<br>
 <br>
 
 <img width="40" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
@@ -52,7 +53,5 @@
 <img width="40" alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
 <img width="40" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
-
-##
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black&section=footer"/>
