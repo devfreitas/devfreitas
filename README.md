@@ -40,8 +40,7 @@
 <img width="40" alt="C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
 <img width="40" alt="C" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
 <img width="40" alt=".NET" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
-
-
+<br>
 <img width="40" alt="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
 <img width="40" alt="Azure" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg">
 <img width="40" alt="VSCode" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
