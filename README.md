@@ -51,18 +51,8 @@
 <img width="40" alt="Obsidian" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Obsidian-Dark.svg"> 
 <img width="40" alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
 <img width="40" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
- 
-
 </div>
 
 ##
-
-<br>
-
-<div align="center">
-  <p>
-    <img src="https://api.visitorbadge.io/api/visitors?path=devfreitas-969&labelColor=%230d1117&countColor=%232d333b&style=for-the-badge&labelStyle=upper" alt="Profile Views" />
-  </p> 
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black&section=footer"/>
