@@ -23,29 +23,6 @@
 <br>
 <br>
 
-<div align="center">
-<samp>
-  <b>
-    Languages
-  </b>
-</samp>
-<img width="40" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-<img width="40" alt="Spring" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
-<img width="40" alt="PHP" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
-<img width="40" alt="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-<img width="40" alt="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-<img width="40" alt="TailwindCSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
-<img width="40" alt="TypeScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
-<img width="40" alt="Rust" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg">
-<img width="40" alt="C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-<img width="40" alt="C" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
-<img width="40" alt=".NET" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
-
-</div>
-
-<br>
-<br>
-
 ##
 
 <div align="center">
@@ -76,11 +53,23 @@
 
 <samp>
   <b>
-    Tools I Use
+    Everthing that I Use
   </b>
 </samp>
 
 <br><br>
+<img width="40" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+<img width="40" alt="Spring" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
+<img width="40" alt="PHP" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+<img width="40" alt="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+<img width="40" alt="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+<img width="40" alt="TailwindCSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
+<img width="40" alt="TypeScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+<img width="40" alt="Rust" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg">
+<img width="40" alt="C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+<img width="40" alt="C" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
+<img width="40" alt=".NET" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
+
 
 <img width="40" alt="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
 <img width="40" alt="Azure" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg">
