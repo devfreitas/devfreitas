@@ -19,8 +19,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devfreitas&theme=nord&border_radius=5.5&short_numbers=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img align="center" alt="Grafico" src="profile-summary-card-output/nord_dark/0-profile-details.svg"/>
-
+<!-- <img align="center" alt="Grafico" src="profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+ -->
 
 <br>
 
