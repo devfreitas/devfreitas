@@ -13,93 +13,13 @@
 </p>
 </div>
 
-<br>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=devfreitas&theme=nord&border_radius=5.5&short_numbers=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img align="center" alt="Grafico" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfreitas&theme=nord_dark"/>
-<br>
-<br>
-
-<div align="center">
-
-<samp>
-  <b>
-    Languages I use
-  </b>
-</samp>
-<br><br>
-
-<img width="40" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-<img width="40" alt="Spring" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
-<img width="40" alt="PHP" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
-<img width="40" alt="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-<img width="40" alt="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-<img width="40" alt="TailwindCSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
-<img width="40" alt="TypeScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
-<img width="40" alt="Rust" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg">
-<img width="40" alt="C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-<img width="40" alt="C" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
-<img width="40" alt=".NET" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
-
-</div>
 
 <br>
 <br>
 
 ##
-
 <div align="center">
-
-<samp>
-  <b>
-    Statistics
-  </b>
-</samp>
-
-<br>
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
-  <img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=devfreitas&show_icons=true&custom_title=GitHub+Statistics+DevFreitas&theme=nord"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
-  <img width="345" align="center" alt="Most Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=devfreitas&layout=compact&theme=nord"/>
-</a>
-
-</div>
-
-<br>
-
-##
-
-<div align="center">
-
-<samp>
-  <b>
-    Tools I Use
-  </b>
-</samp>
-
-<br><br>
-
-<img width="40" alt="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
-<img width="40" alt="Azure" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg">
-<img width="40" alt="VSCode" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
-<img width="40" alt="Android Studio" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg">
-<img width="40" alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg">
-<img width="40" alt="Rider" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rider-Dark.svg">
-<img width="40" alt="Vercel" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg">
-<img width="40" alt="Obsidian" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Obsidian-Dark.svg"> 
-<img width="40" alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
-<img width="40" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-</div>
-
-##
-<div align="center">
-  <br><br>
+  <br>
   <a href="https://buymeacoffee.com/devfreitas" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" >
   </a>
