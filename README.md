@@ -13,8 +13,6 @@
 </p>
 </div>
 
-
-<br>
 <br>
 
 ##
@@ -24,7 +22,5 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" >
   </a>
 </div>
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=2e3440&section=footer"/>
