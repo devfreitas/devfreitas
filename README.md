@@ -22,11 +22,6 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" >
   </a>
 </div>
-
-<div align="center">
-  <img src="fsociety.svg" alt="fsociety00.dat animation" width="450px">
-</div>
-
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black&section=footer"/>
